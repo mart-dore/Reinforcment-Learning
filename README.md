@@ -1,2 +1,4 @@
-# Reinforcment-Learning
-I trained an AI to play Snake game
+I Trained an AI to play snake game using Reinforcement Learning.  
+Libraries : 
+  * Pygames
+  * PyTorch
