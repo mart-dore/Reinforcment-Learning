@@ -15,7 +15,6 @@ This project utilizes **Reinforcement Learning** with **PyTorch** to train an AI
 1. Clone the repository and install the required dependencies:
    ```bash
    git clone [repository URL]
-   pip install -r requirements.txt
    ```
 
 2. To train the AI agent, run:
